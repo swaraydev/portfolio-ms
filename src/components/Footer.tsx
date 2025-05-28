@@ -21,14 +21,14 @@ const Footer = () => {
             <Github className="w-6 h-6 text-current" />
           </a>
           <a
-            href="www.linkedin.com/in/mariame-souare-developper-full-stack"
+            href="https://www.linkedin.com/in/mariame-souare-developper-full-stack/"
             target="_blank"
             rel="noopener noreferrer"
           >
             <Linkedin className="w-6 h-6 text-current" />
           </a>
           <a
-            href="https://github.com/swaraydev/portfolio-ms"
+            href="#"
             target="_blank"
             rel="noopener noreferrer"
           >
