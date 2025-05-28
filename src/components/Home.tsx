@@ -14,7 +14,7 @@ const Home = () => {
         mt-4 md:mt-0"
         >
           Bienvenue! <br /> je suis{" "}
-          <span className="text-accent">MariameDev </span>
+          <span className="text-accent">SOUARE Mariame </span>
         </h1>
         <p className="my-4 text-md text-center md:text-left">
           Je suis une développeuse fullstack <br /> tout juste diplômée,
@@ -32,11 +32,11 @@ const Home = () => {
           Contactez-moi
         </a>
       </div>
-      <div className="md:ml-60">
+      <div className="md:ml-20 max-w-sm md:max-w-lg lg:max-w-xl w-full">
         <img
           src={imagemariame}
           alt=""
-          className="w-96 h-95 object-cover
+          className="w-full h-auto object-cover
         border-8 border-accent shadow-xl"
           style={{
             borderRadius: "30% 70% 70% 30% / 67% 62% 38% 33%",
